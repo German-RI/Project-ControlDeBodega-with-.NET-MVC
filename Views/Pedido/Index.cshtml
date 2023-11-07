@@ -1,0 +1,39 @@
+@model IEnumerable<ProjectControlBodega.Models.Pedido>
+
+@{
+    ViewData["Title"] = "Lista de Pedidos";
+}
+
+<div class="container">
+    <h1>Lista de Pedidos</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Crear Nuevo</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>Empleado</th>
+                <th>Fecha</th>
+                <th>Compañía de envío</th>
+                <th>...</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pedido in Model)
+            {
+                <tr>
+                    <td>@pedido.Cliente.Nombres</td>
+                    <td>@pedido.Empleado.Nombres</td>
+                    <td>@pedido.Fecha</td>
+                    <td>@pedido.Compdeenvio.Nombre</td>
+                    <td>
+                        <a  class="btn btn-warning" asp-route-id="@pedido.Id">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

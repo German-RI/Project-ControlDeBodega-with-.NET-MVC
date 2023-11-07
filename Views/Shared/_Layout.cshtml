@@ -48,12 +48,12 @@
                                 Menu de Pedidos
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Visualizar Pedidios</a></li>
+                                <li><a class="dropdown-item" asp-controller="Pedido" asp-action="Index">Visualizar Pedidios</a></li>
                                 <li><a class="dropdown-item" asp-controller="Cliente" asp-action="Index">Visualizar Clientes</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item" href="#">Crear Pedididos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Pedido" asp-action="Create">Crear Pedididos</a></li>
                                 <li><a class="dropdown-item" asp-controller="Cliente" asp-action="Create">Añadir Clientes</a></li>
                             </ul>
                         </li>
