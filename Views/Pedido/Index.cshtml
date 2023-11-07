@@ -30,7 +30,7 @@
                     <td>@pedido.Fecha</td>
                     <td>@pedido.Compdeenvio.Nombre</td>
                     <td>
-                        <a  class="btn btn-warning" asp-route-id="@pedido.Id">Details</a>
+                        <a asp-controller="DetalleDePedido" asp-action="Index"  class="btn btn-warning" asp-route-id="@pedido.Id">Details</a>
                     </td>
                 </tr>
             }

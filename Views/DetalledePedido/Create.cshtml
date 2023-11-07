@@ -1,0 +1,34 @@
+@model ProjectControlBodega.Models.Detalledepedido
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Detalle de pedidio</h1>
+
+<form asp-controller="DetalledePedido" asp-action="Create">
+
+    <input type="hidden" name="PedidosId" id="PedidosId" value="@ViewBag.PedidoId">
+
+    <div class="form-group">
+        <label asp-for="Producto" class="control-label"></label>
+        <select name="ProductosId" id="ProductosId" class="form-control" asp-items="ViewBag.Productos"></select>
+        <span asp-validation-for="Producto" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CantidadProducto" class="control-label"></label>
+        <input asp-for="CantidadProducto" class="form-control" />
+        <span asp-validation-for="CantidadProducto" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
