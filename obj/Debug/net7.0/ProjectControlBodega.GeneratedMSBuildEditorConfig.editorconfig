@@ -16,12 +16,112 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Documents\OneDrive - #BicentenariaUNANLeon211Años\Documents\DOCUMENTOS Y TRABAJOS DE LA UNAN\Ciclo 8\Analisis y diseño de Sistema de información\ProjectControlBodega
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/CompaniaDeEnvio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/CompaniaDeEnvio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/CompaniaDeEnvio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/CompaniaDeEnvio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/CompaniaDeEnvio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Empleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Empleado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Empleado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Empleado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Empleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Proveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Proveedor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Proveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Documents/OneDrive - \#BicentenariaUNANLeon211Años/Documents/DOCUMENTOS Y TRABAJOS DE LA UNAN/Ciclo 8/Analisis y diseño de Sistema de información/ProjectControlBodega/Views/Shared/Error.cshtml]
