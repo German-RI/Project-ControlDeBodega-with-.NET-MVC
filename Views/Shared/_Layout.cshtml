@@ -31,13 +31,13 @@
                                 Menu Producto
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Visualizar Productos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Producto" asp-action="Index">Visualizar Productos</a></li>
                                 <li><a class="dropdown-item" asp-controller="Categoria" asp-action="Index">Visualizar Categorias</a></li>
                                 <li><a class="dropdown-item" asp-controller="Proveedor" asp-action="Index">Visualizar Proveedores</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item" href="#">Añadir Productos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Producto" asp-action="Create">Añadir Productos</a></li>
                                 <li><a class="dropdown-item" asp-controller="Categoria" asp-action="Create">Añadir Categorias</a></li>
                                 <li><a class="dropdown-item" asp-controller="Proveedor" asp-action="Create">Añadir Proveedores</a></li>
                             </ul>
