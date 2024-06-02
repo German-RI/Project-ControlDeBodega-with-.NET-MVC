@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JORAw6DPAmE8pyG5/lQYOfFBmYeQo53tJ3ruSD0S3sw9KSuxQ25rMu1gpOW2g7tPXLhpU0p9QzfHOxnem5gyhw==",
+  "dgSpecHash": "SDSffhtZ7QjgYg3cnJ7giJRQuMdWLEht4v9+K3xPRCaYLxrz5jfLU3Wm3yDMNJkjcexA6wo+k3nFXX3DtEYUKg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\OneDrive - #BicentenariaUNANLeon211Años\\Documents\\DOCUMENTOS Y TRABAJOS DE LA UNAN\\Ciclo 8\\Analisis y diseño de Sistema de información\\ProjectControlBodega\\ProjectControlBodega.csproj",
+  "projectFilePath": "D:\\Documents\\ciclo 9\\Ingenieria de Software\\Project-ControlDeBodega-with-.NET-MVC\\ProjectControlBodega.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

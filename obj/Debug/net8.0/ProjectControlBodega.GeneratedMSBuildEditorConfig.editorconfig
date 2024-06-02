@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectControlBodega
+build_property.RootNamespace = ProjectControlBodega
+build_property.ProjectDir = D:\Documents\ciclo 9\Ingenieria de Software\Project-ControlDeBodega-with-.NET-MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Documents\ciclo 9\Ingenieria de Software\Project-ControlDeBodega-with-.NET-MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/CompaniaDeEnvio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/CompaniaDeEnvio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/CompaniaDeEnvio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/CompaniaDeEnvio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/CompaniaDeEnvio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWFEZUVudmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/DetalledePedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZWRlUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/DetalledePedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZWRlUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Empleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Empleado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Empleado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Empleado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Empleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Pedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Proveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Proveedor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Proveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/ciclo 9/Ingenieria de Software/Project-ControlDeBodega-with-.NET-MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bnlpdrtmgj
