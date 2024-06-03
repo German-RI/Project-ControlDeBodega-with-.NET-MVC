@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectControlBodega")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e20761192106814a3ca67b35267465475fe316")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b4510df5cb2b988a1377ebe63369281475a2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectControlBodega")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectControlBodega")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
