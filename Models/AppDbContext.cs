@@ -12,6 +12,9 @@ namespace ProjectControlBodega.Models {
         public DbSet<Producto> Productos {get; set;}
         public DbSet<Pedido> Pedidos {get; set;}
         public DbSet<Detalledepedido> Detalledepedidos {get; set;}
+        //public DbSet<Compras> Compras {get; set;}
+        //public DbSet<Ventas> Ventas {get; set;}
+        public DbSet<Inventario> Inventario {get; set;}
 
     }
 }

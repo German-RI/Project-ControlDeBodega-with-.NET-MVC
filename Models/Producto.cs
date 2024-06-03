@@ -8,6 +8,8 @@ public class Producto
     public string? Nombre { get; set; }
     public double Precio { get; set; }
     public int Cantidad { get; set; }
+    public double PrecioTot { get; set; }
+    public DateTime? Fecha { get; set; }
     public string? Descripcion {get; set; }
     public Categoria? Categoria {get; set; }
     public Proveedor? Proveedor {get; set; }
